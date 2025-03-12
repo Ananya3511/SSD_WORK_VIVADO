@@ -1,0 +1,25 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.xpr
+*.ip_user_files/
+*.gen/
+*.tmp
+*.webtalk/
+
+# Build outputs
+*.dcp
+*.bit
+*.bin
+*.elf
+*.tcl
+
+# IDE settings
+.xil/
+.idea/
+.vscode/
